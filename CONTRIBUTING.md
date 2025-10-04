@@ -1,4 +1,5 @@
 
+
 ---
 
 ## 📄 CONTRIBUTING.md
@@ -18,18 +19,21 @@ Merci de vouloir contribuer à **Open Food Sénégal/Afrique API** ! 🚀
 
 ## 🚀 Comment contribuer ?
 
-1. **Fork** le repo  
-2. **Créer une branche**  
-   ```bash
-   git checkout -b feature/ajout-aliment```
-   
+1. **Fork** le repo
+
+2. **Créer une branche** 
+		
+    bash
+	   git checkout -b feature/ajout-aliment
+
 3. ** Commit Clair **
-   ```
-      bash
+	   
+    bash
       git commit -m "feat(food): ajout modèle de base Aliment"
-   ```
+      
 
 4. **Push et créer une Pull Request**
+
 
 ✅ Bonnes pratiques
 
@@ -41,15 +45,14 @@ Merci de vouloir contribuer à **Open Food Sénégal/Afrique API** ! 🚀
    
    - Préférer des petites PR bien ciblées.
 
+
 🎯 Contribution facile (pour débutants)
 
-      -Corriger des fautes de documentation
-      
-      - Ajouter un aliment dans le JSON de test
-      
-      - Écrire des tests unitaires simples
-      
-      - Améliorer le README
+ - Corriger des fautes de documentation
+ - Ajouter un aliment dans le JSON de test
+ - Écrire des tests unitaires simples
+ - Améliorer le README
+
       
 
 Merci pour votre contribution 💚
