@@ -23,10 +23,13 @@ Merci de vouloir contribuer à **Open Food Sénégal/Afrique API** ! 🚀
    ```bash
    git checkout -b feature/ajout-aliment```
    
-3. ** Commit Clair
-   ```bash
-      git commit -m "feat(food): ajout modèle de base Aliment"```
-4. **Push et créer une Pull Request
+3. ** Commit Clair **
+   ```
+      bash
+      git commit -m "feat(food): ajout modèle de base Aliment"
+   ```
+
+4. **Push et créer une Pull Request**
 
 ✅ Bonnes pratiques
 
